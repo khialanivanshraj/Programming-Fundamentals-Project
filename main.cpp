@@ -140,7 +140,7 @@ bool authSystem()
         {
             forgotPassword();
         }
-        else if(choice = 4){
+        else if(choice == 4){
           return false;
         }
         else
